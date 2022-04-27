@@ -1,0 +1,33 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Winforms UI/1.0.0": {
+        "runtime": {
+          "Winforms UI.dll": {}
+        }
+      },
+      "ASCII Art Engine/1.0.0": {
+        "runtime": {
+          "ASCII Art Engine.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Winforms UI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ASCII Art Engine/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

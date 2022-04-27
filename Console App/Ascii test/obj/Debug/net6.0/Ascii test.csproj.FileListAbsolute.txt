@@ -1,0 +1,15 @@
+C:\Users\jackh\Desktop\Code\Visual Studio\Ascii test\Ascii test\bin\Debug\net6.0\Ascii test.exe
+C:\Users\jackh\Desktop\Code\Visual Studio\Ascii test\Ascii test\bin\Debug\net6.0\Ascii test.deps.json
+C:\Users\jackh\Desktop\Code\Visual Studio\Ascii test\Ascii test\bin\Debug\net6.0\Ascii test.runtimeconfig.json
+C:\Users\jackh\Desktop\Code\Visual Studio\Ascii test\Ascii test\bin\Debug\net6.0\Ascii test.dll
+C:\Users\jackh\Desktop\Code\Visual Studio\Ascii test\Ascii test\bin\Debug\net6.0\ref\Ascii test.dll
+C:\Users\jackh\Desktop\Code\Visual Studio\Ascii test\Ascii test\bin\Debug\net6.0\Ascii test.pdb
+C:\Users\jackh\Desktop\Code\Visual Studio\Ascii test\Ascii test\obj\Debug\net6.0\Ascii test.csproj.AssemblyReference.cache
+C:\Users\jackh\Desktop\Code\Visual Studio\Ascii test\Ascii test\obj\Debug\net6.0\Ascii test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackh\Desktop\Code\Visual Studio\Ascii test\Ascii test\obj\Debug\net6.0\Ascii test.AssemblyInfoInputs.cache
+C:\Users\jackh\Desktop\Code\Visual Studio\Ascii test\Ascii test\obj\Debug\net6.0\Ascii test.AssemblyInfo.cs
+C:\Users\jackh\Desktop\Code\Visual Studio\Ascii test\Ascii test\obj\Debug\net6.0\Ascii test.csproj.CoreCompileInputs.cache
+C:\Users\jackh\Desktop\Code\Visual Studio\Ascii test\Ascii test\obj\Debug\net6.0\Ascii test.dll
+C:\Users\jackh\Desktop\Code\Visual Studio\Ascii test\Ascii test\obj\Debug\net6.0\ref\Ascii test.dll
+C:\Users\jackh\Desktop\Code\Visual Studio\Ascii test\Ascii test\obj\Debug\net6.0\Ascii test.pdb
+C:\Users\jackh\Desktop\Code\Visual Studio\Ascii test\Ascii test\obj\Debug\net6.0\Ascii test.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ea48fc4c-ebe2-447b-add6-f6c0b071112d": {
+      "ProjectGuid": "ea48fc4c-ebe2-447b-add6-f6c0b071112d",
+      "DisplayName": "Ascii test",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

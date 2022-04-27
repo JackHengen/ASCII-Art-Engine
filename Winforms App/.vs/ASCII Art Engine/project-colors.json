@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0861dd0f-0cee-4534-a33f-121881490366": {
+      "ProjectGuid": "0861dd0f-0cee-4534-a33f-121881490366",
+      "DisplayName": "ASCII Art Engine",
+      "ColorIndex": 0
+    },
+    "b9a3dc01-af03-45ef-8810-b760142b51f1": {
+      "ProjectGuid": "b9a3dc01-af03-45ef-8810-b760142b51f1",
+      "DisplayName": "Winforms UI",
+      "ColorIndex": 1
+    },
+    "e2205adf-672d-43b0-9dab-e76d08ddf64a": {
+      "ProjectGuid": "e2205adf-672d-43b0-9dab-e76d08ddf64a",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

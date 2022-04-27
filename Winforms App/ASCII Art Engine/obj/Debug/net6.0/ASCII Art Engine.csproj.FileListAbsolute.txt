@@ -1,0 +1,12 @@
+C:\Users\jackh\Desktop\Code\Visual Studio\ASCII Art Engine\ASCII Art Engine\bin\Debug\net6.0\ASCII Art Engine.deps.json
+C:\Users\jackh\Desktop\Code\Visual Studio\ASCII Art Engine\ASCII Art Engine\bin\Debug\net6.0\ASCII Art Engine.dll
+C:\Users\jackh\Desktop\Code\Visual Studio\ASCII Art Engine\ASCII Art Engine\bin\Debug\net6.0\ref\ASCII Art Engine.dll
+C:\Users\jackh\Desktop\Code\Visual Studio\ASCII Art Engine\ASCII Art Engine\bin\Debug\net6.0\ASCII Art Engine.pdb
+C:\Users\jackh\Desktop\Code\Visual Studio\ASCII Art Engine\ASCII Art Engine\obj\Debug\net6.0\ASCII Art Engine.csproj.AssemblyReference.cache
+C:\Users\jackh\Desktop\Code\Visual Studio\ASCII Art Engine\ASCII Art Engine\obj\Debug\net6.0\ASCII Art Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackh\Desktop\Code\Visual Studio\ASCII Art Engine\ASCII Art Engine\obj\Debug\net6.0\ASCII Art Engine.AssemblyInfoInputs.cache
+C:\Users\jackh\Desktop\Code\Visual Studio\ASCII Art Engine\ASCII Art Engine\obj\Debug\net6.0\ASCII Art Engine.AssemblyInfo.cs
+C:\Users\jackh\Desktop\Code\Visual Studio\ASCII Art Engine\ASCII Art Engine\obj\Debug\net6.0\ASCII Art Engine.csproj.CoreCompileInputs.cache
+C:\Users\jackh\Desktop\Code\Visual Studio\ASCII Art Engine\ASCII Art Engine\obj\Debug\net6.0\ASCII Art Engine.dll
+C:\Users\jackh\Desktop\Code\Visual Studio\ASCII Art Engine\ASCII Art Engine\obj\Debug\net6.0\ref\ASCII Art Engine.dll
+C:\Users\jackh\Desktop\Code\Visual Studio\ASCII Art Engine\ASCII Art Engine\obj\Debug\net6.0\ASCII Art Engine.pdb

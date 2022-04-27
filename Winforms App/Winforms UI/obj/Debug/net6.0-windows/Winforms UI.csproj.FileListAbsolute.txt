@@ -1,0 +1,22 @@
+C:\Users\jackh\Desktop\Code\Visual Studio\ASCII Art Engine\Winforms UI\bin\Debug\net6.0-windows\Winforms UI.exe
+C:\Users\jackh\Desktop\Code\Visual Studio\ASCII Art Engine\Winforms UI\bin\Debug\net6.0-windows\Winforms UI.deps.json
+C:\Users\jackh\Desktop\Code\Visual Studio\ASCII Art Engine\Winforms UI\bin\Debug\net6.0-windows\Winforms UI.runtimeconfig.json
+C:\Users\jackh\Desktop\Code\Visual Studio\ASCII Art Engine\Winforms UI\bin\Debug\net6.0-windows\Winforms UI.dll
+C:\Users\jackh\Desktop\Code\Visual Studio\ASCII Art Engine\Winforms UI\bin\Debug\net6.0-windows\ref\Winforms UI.dll
+C:\Users\jackh\Desktop\Code\Visual Studio\ASCII Art Engine\Winforms UI\bin\Debug\net6.0-windows\Winforms UI.pdb
+C:\Users\jackh\Desktop\Code\Visual Studio\ASCII Art Engine\Winforms UI\bin\Debug\net6.0-windows\ASCII Art Engine.dll
+C:\Users\jackh\Desktop\Code\Visual Studio\ASCII Art Engine\Winforms UI\bin\Debug\net6.0-windows\ASCII Art Engine.pdb
+C:\Users\jackh\Desktop\Code\Visual Studio\ASCII Art Engine\Winforms UI\obj\Debug\net6.0-windows\Winforms UI.csproj.AssemblyReference.cache
+C:\Users\jackh\Desktop\Code\Visual Studio\ASCII Art Engine\Winforms UI\obj\Debug\net6.0-windows\Winforms_UI.Form1.resources
+C:\Users\jackh\Desktop\Code\Visual Studio\ASCII Art Engine\Winforms UI\obj\Debug\net6.0-windows\Winforms UI.csproj.GenerateResource.cache
+C:\Users\jackh\Desktop\Code\Visual Studio\ASCII Art Engine\Winforms UI\obj\Debug\net6.0-windows\Winforms UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackh\Desktop\Code\Visual Studio\ASCII Art Engine\Winforms UI\obj\Debug\net6.0-windows\Winforms UI.AssemblyInfoInputs.cache
+C:\Users\jackh\Desktop\Code\Visual Studio\ASCII Art Engine\Winforms UI\obj\Debug\net6.0-windows\Winforms UI.AssemblyInfo.cs
+C:\Users\jackh\Desktop\Code\Visual Studio\ASCII Art Engine\Winforms UI\obj\Debug\net6.0-windows\Winforms UI.csproj.CoreCompileInputs.cache
+C:\Users\jackh\Desktop\Code\Visual Studio\ASCII Art Engine\Winforms UI\obj\Debug\net6.0-windows\Winforms UI.csproj.CopyComplete
+C:\Users\jackh\Desktop\Code\Visual Studio\ASCII Art Engine\Winforms UI\obj\Debug\net6.0-windows\Winforms UI.dll
+C:\Users\jackh\Desktop\Code\Visual Studio\ASCII Art Engine\Winforms UI\obj\Debug\net6.0-windows\ref\Winforms UI.dll
+C:\Users\jackh\Desktop\Code\Visual Studio\ASCII Art Engine\Winforms UI\obj\Debug\net6.0-windows\Winforms UI.pdb
+C:\Users\jackh\Desktop\Code\Visual Studio\ASCII Art Engine\Winforms UI\obj\Debug\net6.0-windows\Winforms UI.genruntimeconfig.cache
+C:\Users\jackh\Desktop\Code\Visual Studio\ASCII Art Engine\Winforms UI\obj\Debug\net6.0-windows\Winforms_UI.LoadAnimationForm.resources
+C:\Users\jackh\Desktop\Code\Visual Studio\ASCII Art Engine\Winforms UI\obj\Debug\net6.0-windows\Winforms_UI.SettingsForm.resources

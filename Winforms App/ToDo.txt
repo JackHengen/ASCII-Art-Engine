@@ -1,0 +1,13 @@
+Fix looping
+Settings buttons to change colors fonts and sizes
+Run without having to download framework / create an installer program
+Scalable Box For lots of lines of text/ Scalable UI
+Choose which order the animation loads in
+
+Maybe create an Animation Interface but different subclasses depending on how the files are loaded
+^^^^Decided to do this because different loading and editing functionality
+
+Class Frame
+Prop Text
+Changing frame saves changes made to text,
+Frame would have to either save the file its from or save
